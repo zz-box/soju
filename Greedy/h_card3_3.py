@@ -13,13 +13,7 @@ m = 5
 a = list()
 a = [[1,2,3], [4, 5, 6]]
 
-a = list()
 
-a.append([1,2,3])
-a.append([3,4,5])
-a
-a = list()
-m = 2
 
 
 for i in range(m):
