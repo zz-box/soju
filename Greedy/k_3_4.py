@@ -11,5 +11,5 @@ while n >= m:
 
 if n > 1:
     cnt += (n - 1)
-print(25//5)
+
 print(cnt)
